@@ -1,4 +1,5 @@
 # Stockmarket-prediction-using-CNN-LSTM
+![alt text](https://i.pinimg.com/564x/42/71/31/4271319a51a77596915a88ef69ea3dce.jpg)
 Hi, This project is for predicting stockmarket ,created model using both CNN and LSTM<br>
 
 ##About data
